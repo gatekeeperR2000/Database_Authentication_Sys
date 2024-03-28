@@ -16,7 +16,7 @@ The main focus is Typescript that then has to get compiled into Javascript. Many
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+A list of websites that I found helpful in this project:
 
 - [W3schools](https://www.w3schools.com)
 - [nodejs](https://nodejs.org/en/learn/asynchronous-work/overview-of-blocking-vs-non-blocking)
@@ -24,8 +24,6 @@ The main focus is Typescript that then has to get compiled into Javascript. Many
 - [ChatGPT](https://chat.openai.com)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - working server to run locally
 - figure out more about the async functions that run the database. I had some errors with those but havn't been able to run the server to check if I fixed the problem.
